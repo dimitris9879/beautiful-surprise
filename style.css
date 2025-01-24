@@ -1,0 +1,19 @@
+body{
+background-color: magenta;
+}
+h1{
+    font-size:50px;
+    text-align:center;
+    background-color: aquamarine;
+}
+#bored{
+    font-size:40;
+}
+ul{
+    font-size:30;
+    color:maroon;
+}
+footer{
+background-color:mediumseagreen;
+font-size:30;
+}
